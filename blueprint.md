@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple and elegant to-do application UI.
+A simple and elegant to-do application UI with Google Authentication.
 
 ## Implemented Features
 
@@ -29,7 +29,7 @@ A simple and elegant to-do application UI.
     *   `app/page.tsx`: The main page component that will contain the entire UI.
     *   `app/globals.css`: Global styles for the application.
 
-## Current Plan: Firebase Integration
+### Firebase Integration
 
 1.  **Initialize Firestore**: Set up Firestore to store the to-do items.
 2.  **Firebase Configuration**: Create a file to hold the Firebase configuration and initialize the Firebase app.
@@ -39,3 +39,15 @@ A simple and elegant to-do application UI.
     *   Create a Server Action to toggle the completion status of a to-do in Firestore.
     *   Create a Server Action to delete a to-do from Firestore.
 5.  **UI Integration**: Connect the UI elements (input field, checkboxes, delete buttons) to the Server Actions.
+6.  **Firebase Authentication**:
+    *   Add the Firebase Authentication SDK to the project.
+    *   Create a login component with a "Sign in with Google" button.
+    *   Implement the logic to handle the Google Sign-In flow.
+    *   Display user information (e.g., name, profile picture) when logged in.
+    *   Add a "Sign out" button.
+7.  **Firestore Security Rules**:
+    *   Update Firestore security rules to ensure that users can only read and write their own to-do items.
+    *   Each to-do item will be associated with the user's UID.
+8.  **Update Data Logic**:
+    *   Modify the data fetching logic to only retrieve the to-do items for the currently logged-in user.
+    *   Update the Server Actions to associate the to-do items with the authenticated user.

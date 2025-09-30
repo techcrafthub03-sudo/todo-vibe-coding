@@ -230,3 +230,313 @@
 [debug] [2025-09-29T19:03:09.271Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:471563353601:web:e1c40a87917d5fd3d50a00/config [none]
 [debug] [2025-09-29T19:03:10.117Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:471563353601:web:e1c40a87917d5fd3d50a00/config 200
 [debug] [2025-09-29T19:03:10.118Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/-/webApps/1:471563353601:web:e1c40a87917d5fd3d50a00/config {"projectId":"todo-vibe-86c54","appId":"1:471563353601:web:e1c40a87917d5fd3d50a00","storageBucket":"todo-vibe-86c54.firebasestorage.app","apiKey":"AIzaSyCPVvuvglgFBoxsnLBqv2AvTq7AmBRFT8Y","authDomain":"todo-vibe-86c54.firebaseapp.com","messagingSenderId":"471563353601","measurementId":"G-RL4G6JGFJ1"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:50:44.865Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:44.867Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:44.868Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:44.884Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:44.885Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.137Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.138Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.141Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.142Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.142Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.153Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.153Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.154Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.157Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.157Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.165Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.165Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.165Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.166Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.166Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.173Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.173Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.173Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.174Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.174Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:50:45.354Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.355Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.355Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.355Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.356Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.362Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.363Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.363Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.366Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.366Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.374Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.374Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.374Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.377Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.379Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.384Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.385Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.385Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.385Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.385Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.395Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.395Z] Checked if tokens are valid: false, expires at: 1759175427068
+[debug] [2025-09-30T04:50:45.395Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T04:50:45.398Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T04:50:45.398Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.561Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.566Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.602Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T04:50:45.602Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.704Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.704Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.730Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T04:50:45.730Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.744Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.744Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.767Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T04:50:45.767Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.797Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.797Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.816Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T04:50:45.816Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.846Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.846Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.871Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T04:50:45.872Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.891Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.891Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.905Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T04:50:45.906Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.930Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.930Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.948Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T04:50:45.948Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:45.955Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:45.955Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:45.970Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T04:50:45.970Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:46.023Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:46.023Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:46.043Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T04:50:46.043Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:46.049Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T04:50:46.050Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T04:50:46.063Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T04:50:46.064Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:50:46.791Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T04:50:46.793Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:46.915Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T04:50:46.917Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:47.052Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T04:50:47.054Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:47.060Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T04:50:47.060Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:47.081Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T04:50:47.083Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T04:50:47.097Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T04:50:47.097Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:47.120Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T04:50:47.120Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T04:50:47.127Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T04:50:47.127Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T04:50:47.173Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T04:50:47.173Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[debug] [2025-09-30T04:50:47.417Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T04:50:47.419Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:50:47.433Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:50:47.434Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:10.033Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.035Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.037Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.037Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.045Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.051Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.051Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.052Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.058Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.058Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.063Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T04:51:10.068Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.253Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.254Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.261Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.261Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.268Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.268Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.275Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T04:51:10.275Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:10.504Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.504Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.518Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.518Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.519Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.519Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.525Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.525Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.526Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.526Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T04:51:10.528Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T04:51:10.529Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.533Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.533Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.543Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.543Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.548Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T04:51:10.548Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:10.553Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T04:51:10.553Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T04:51:11.448Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T04:51:11.451Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.466Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T04:51:11.467Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.478Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T04:51:11.478Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.569Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T04:51:11.570Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T04:51:11.641Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T04:51:11.642Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T04:51:11.719Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T04:51:11.721Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[debug] [2025-09-30T04:51:11.865Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T04:51:11.865Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.868Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T04:51:11.868Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.872Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T04:51:11.873Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T04:51:11.923Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T04:51:11.926Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:11.937Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:51:11.938Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:12.016Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:51:12.016Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:12.037Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:51:12.039Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T04:51:15.595Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:51:15.595Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[debug] [2025-09-30T04:51:15.595Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T04:51:15.595Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:12:30.731Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.732Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.733Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.733Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.734Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.734Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.735Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.735Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.735Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.736Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:30.738Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T05:12:30.738Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:30.855Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T05:12:30.855Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:30.862Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T05:12:30.863Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:30.869Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T05:12:30.870Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:30.873Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T05:12:30.874Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:12:31.035Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.043Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.044Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.044Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.047Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.048Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.048Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.048Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.050Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.050Z] Checked if tokens are valid: true, expires at: 1759211445050
+[debug] [2025-09-30T05:12:31.050Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [none]
+[debug] [2025-09-30T05:12:31.050Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:31.054Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-30T05:12:31.054Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:31.057Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-30T05:12:31.057Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:31.060Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-30T05:12:31.060Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:31.062Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [none]
+[debug] [2025-09-30T05:12:31.063Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:12:32.009Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T05:12:32.018Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.045Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T05:12:32.045Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T05:12:32.061Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T05:12:32.065Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.084Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T05:12:32.084Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.101Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T05:12:32.107Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[debug] [2025-09-30T05:12:32.129Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-30T05:12:32.133Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.165Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-30T05:12:32.165Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.166Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-30T05:12:32.166Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-30T05:12:32.168Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com 403
+[debug] [2025-09-30T05:12:32.168Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/firebaseio.com [omitted]
+[debug] [2025-09-30T05:12:32.454Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ 200
+[debug] [2025-09-30T05:12:32.460Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/ [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:12:32.478Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T05:12:32.481Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:12:32.523Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T05:12:32.523Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:12:32.549Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T05:12:32.549Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T05:55:50.206Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T05:55:50.207Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[debug] [2025-09-30T05:55:50.208Z] Checked if tokens are valid: false, expires at: 1759211445050
+[debug] [2025-09-30T05:55:50.208Z] Checked if tokens are valid: false, expires at: 1759211445050
+[debug] [2025-09-30T05:55:50.208Z] > refreshing access token with scopes: []
+[debug] [2025-09-30T05:55:50.210Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-30T05:55:50.211Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T05:55:50.266Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-30T05:55:50.266Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-30T05:55:50.286Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/cloudaicompanion.googleapis.com [none]
+[debug] [2025-09-30T05:55:50.286Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/cloudaicompanion.googleapis.com x-goog-quota-user=projects/todo-vibe-86c54
+[debug] [2025-09-30T05:55:51.351Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/cloudaicompanion.googleapis.com 200
+[debug] [2025-09-30T05:55:51.352Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/todo-vibe-86c54/services/cloudaicompanion.googleapis.com [omitted]
+[info] ✔  : required API cloudaicompanion.googleapis.com is enabled 
+[debug] [2025-09-30T05:55:51.363Z] Checked if tokens are valid: true, expires at: 1759215349269
+[debug] [2025-09-30T05:55:51.363Z] Checked if tokens are valid: true, expires at: 1759215349269
+[debug] [2025-09-30T05:55:51.363Z] >>> [apiv2][query] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask [none]
+[debug] [2025-09-30T05:55:51.364Z] >>> [apiv2][body] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask {"input":{"messages":[{"content":"My user is getting a `FIRAuthErrorCodeOperationNotAllowed` error when trying to use Google Sign-In in their web app. I've determined they need to enable the Google Sign-In provider in the Firebase console. Please provide the step-by-step instructions for them to do this.","author":"USER"}]},"experienceContext":{"experience":"/appeco/firebase/firebase-chat/free"}}
+[debug] [2025-09-30T05:55:54.954Z] <<< [apiv2][status] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask 200
+[debug] [2025-09-30T05:55:54.954Z] <<< [apiv2][body] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask {"output":{"messages":[{"content":"Hey there! Gemini in Firebase here, ready to help you smooth out that authentication hiccup. It sounds like your user is running into a `FIRAuthErrorCodeOperationNotAllowed` error with Google Sign-In, and you're spot on – it usually means the Google provider isn't enabled in your Firebase project. No worries, it's an easy fix!\n\nHere’s how you can enable Google Sign-In in your Firebase project:\n\n1.  **Head to the Firebase console:** First things first, open up your web browser and navigate to the Firebase console. Make sure you're logged in with the Google account associated with your Firebase project.\n2.  **Select your project:** Once in the console, choose the specific Firebase project where your web app is hosted.\n3.  **Navigate to Authentication:** On the left-hand navigation menu, look for the \"Build\" section and click on \"Authentication.\"\n4.  **Go to the \"Sign-in method\" tab:** Within the Authentication section, you'll see a few tabs at the top. Click on the \"Sign-in method\" tab.\n5.  **Enable Google:** Here, you'll find a list of various authentication providers. Locate \"Google\" in the list. It will likely be disabled. Click on the pencil icon (✏️) next to \"Google.\"\n6.  **Toggle it on and save:** A new panel will open. Simply toggle the \"Enable\" switch to the \"On\" position. You'll also see an option for \"Web SDK configuration\" – for a standard web app, the default settings usually work fine. Once enabled, click the \"Save\" button.\n\nAnd that's it! Once saved, your Firebase project will now be configured to allow Google Sign-In. Your users should no longer encounter that `FIRAuthErrorCodeOperationNotAllowed` error when attempting to authenticate with their Google accounts.\n\nTo dive deeper, you might want to ask:\n\n*   What are the other common authentication providers Firebase supports and how do they work?\n*   How can I customize the Google Sign-In user experience in my web app?\n*   What if I want to restrict sign-in to specific Google Workspace domains?","author":"model"}]},"outputDataContext":{"additionalContext":{"@type":"type.googleapis.com/google.cloud.cloudaicompanion.v1main.ChatOutputDataContext","relatedContent":{}}},"attributionContext":{"citationMetadata":{}}}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-30T06:03:08.457Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-30T06:03:08.459Z] > authorizing via signed-in user (techcrafthub03@gmail.com)
+[debug] [2025-09-30T06:03:08.460Z] Checked if tokens are valid: true, expires at: 1759215349269
+[debug] [2025-09-30T06:03:08.460Z] Checked if tokens are valid: true, expires at: 1759215349269
+[debug] [2025-09-30T06:03:08.460Z] >>> [apiv2][query] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask [none]
+[debug] [2025-09-30T06:03:08.460Z] >>> [apiv2][body] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask {"input":{"messages":[{"content":"My user is getting an `auth/unauthorized-domain` error. I need to guide them on how to add their development domain, like 'localhost', to the list of authorized domains in the Firebase console. Please provide step-by-step instructions.","author":"USER"}]},"experienceContext":{"experience":"/appeco/firebase/firebase-chat/free"}}
+[debug] [2025-09-30T06:03:11.845Z] <<< [apiv2][status] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask 200
+[debug] [2025-09-30T06:03:11.847Z] <<< [apiv2][body] POST https://cloudaicompanion.googleapis.com/v1beta/projects/todo-vibe-86c54/locations/global/instances/default:completeTask {"output":{"messages":[{"content":"Hey there! Gemini in Firebase here, ready to help you navigate those tricky `auth/unauthorized-domain` errors. It sounds like your user is running into a common issue when developing locally, and it's super easy to fix.\n\nThe `auth/unauthorized-domain` error means that the domain from which your Firebase Authentication request is originating isn't on the list of trusted domains for your Firebase project. This is a security measure to prevent unauthorized use of your authentication services. When you're developing on 'localhost', Firebase needs to know that 'localhost' is a legitimate place for your app to be running.\n\nHere’s how your user can add their development domain, like 'localhost', to the authorized domains in the Firebase console:\n\n1.  **Go to the Firebase Console:** First, your user needs to sign in to the Firebase console and select their project.\n2.  **Navigate to Authentication:** On the left-hand menu, they should find and click on \"Authentication.\"\n3.  **Find the \"Settings\" Tab:** Once in the Authentication section, they'll see a few tabs at the top. They should click on the \"Settings\" tab.\n4.  **Add Domain:** Under the \"Authorized domains\" section, they'll see a list of domains already authorized. There should be a button or an input field to \"Add domain.\" They simply click that, type in their development domain (e.g., `localhost`), and then click \"Add\" or \"Save.\"\n\nAnd that's it! Once 'localhost' is added, Firebase will recognize it as a valid source for authentication requests, and the `auth/unauthorized-domain` error should disappear.\n\nTo dive deeper, you might want to ask:\n\n*   Why is authorizing domains a crucial security feature in Firebase Authentication?\n*   What other types of domains should be authorized for a production application?\n*   Are there any considerations for authorizing domains when using Firebase Hosting?","author":"model"}]},"outputDataContext":{"additionalContext":{"@type":"type.googleapis.com/google.cloud.cloudaicompanion.v1main.ChatOutputDataContext","relatedContent":{}}},"attributionContext":{"citationMetadata":{}}}
